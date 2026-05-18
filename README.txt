@@ -14,4 +14,8 @@ Pedidos personalizados y por encargo
 Venta por redes sociales con entrega a domicilio
 
 Tipo de Emprendimiento
+<<<<<<< HEAD
 Pequeña empresa con potencial escalable.
+=======
+Pequeña empresa con potencial escalable.
+>>>>>>> 5a5d07122e059c8e84318a19cc659ad874a3f4df
